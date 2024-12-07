@@ -22,9 +22,10 @@ const BaseNavbar = () => {
         <header className="lg:container z-[99]">
             <nav>
                 <Card className="flex flex-wrap justify-between items-center px-5 gap-5">
-                    <Link href={"/"}>
-                        <h1 className="text-2xl font-bold py-7">Security Talent</h1>
-                    </Link>
+                
+<Link href="https://securitytalent.net" target="_blank" rel="noopener noreferrer">
+  <h1 className="text-2xl font-bold py-7">Security Talent</h1>
+</Link>
                     {/* ? DEV Only */}
                     {devEnv && <DevDebug />}
                     <LanguageSelector />
