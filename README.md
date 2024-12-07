@@ -50,12 +50,6 @@ Invoify is a web-based invoice generator application built with Next.js 13, Type
 - [ ] **Custom Inputs:** Define your own inputs that are missing from the default invoice builder. (Ex: VAT number)
 - [ ] **Individual Tax for Line Items:** Add tax details for a specific line item other than the general tax
 
-## Demo
-
-> [!NOTE]
-> Please be advised that there are currently issues when using this application in the Mozilla Firefox browser. For more information, refer to [Issue #11](https://github.com/aliabb01/invoify/issues/11).
-
-Visit the [live demo](https://invoify.vercel.app) to see Invoify in action.
 
 ## Getting Started
 
